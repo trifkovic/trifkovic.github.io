@@ -1,0 +1,24 @@
+# SEO Values
+title: 1911.su
+tagline: encrypt decrypt tools
+description: The renowned dark theme for ...
+url: https://trifkovic.github.io
+
+# Google Analytics ID
+google_analytics:
+
+# GitHub Values
+github:
+  owner_name: Nenad Trifkovic
+  owner_url: https://github.com/trifkovic
+  repository_url: https://github.com/trifkovic/trifkovic.github.io
+
+show_downloads: true
+show_header: true
+remote_theme: "dracula/gh-pages"
+
+sass:
+    style: compressed
+
+plugins:
+  - jekyll-seo-tag
